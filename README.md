@@ -1,6 +1,6 @@
 # Web Browser port of ICMC Processor Simulator
 
-A browser version of ICMC Processor simulator for faster and easily use, without any local installation process.
+This repository hosts a browser version of ICMC Processor simulator for faster and easily use, without any local installation process.
 
 - The simulator can be accessed through this [link](https://thiagoambiel.github.io/SimuladorICMC/).
 
